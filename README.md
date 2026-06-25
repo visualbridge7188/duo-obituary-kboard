@@ -1,6 +1,6 @@
 # 🕯️ Duo Obituary KBoard Skin (Duo 부고알림 스킨)
 
-[![Version](https://img.shields.io/badge/version-1.4.1-blue.svg)](https://github.com/visualbridge7188/duo-obituary-kboard)
+[![Version](https://img.shields.io/badge/version-1.5.0-blue.svg)](https://github.com/visualbridge7188/duo-obituary-kboard)
 [![WordPress](https://img.shields.io/badge/WordPress-5.0+-0073aa.svg)](https://wordpress.org)
 
 **Duo 부고알림 스킨**은 워드프레스 KBoard 플러그인을 위한 프리미엄 부고 관리 솔루션입니다. 현대적인 디자인 감각과 고성능 애니메이션 기술을 결합하여, 경건하고 품격 있는 부고 알림 서비스를 제공합니다.
